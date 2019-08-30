@@ -1,5 +1,8 @@
 // Arrayer
 
+// Skriv en metod som tar in en int x och returnerar en array med värdena 1 - x
+// public static int[] (int x)
+
 // Skriv en metod som tar in och sorterar en int[]
 // Public static void sortIntArr(int[] list){}
 // ex. {3, 5, 1, 2} -> {1, 2, 3, 5}
